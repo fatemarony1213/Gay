@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').conig()
 const { Client } = require('discord.js-selfbot-v13')
 const client = new Client()
 
